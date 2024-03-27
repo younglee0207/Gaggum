@@ -21,7 +21,7 @@ SSAFY 8기 자율 프로젝트
 
 ---
 
-![자율 프로젝트 팀원](https://github.com/Hyokiz/Algorithm/assets/109258146/0894ddd6-7ee5-47d0-9f41-ddda97c38065)
+![자율 프로젝트 팀원](https://github.com/Hyokiz/Algorithm/assets/109258146/0894ddd6-7ee5-47d0-9f41-ddda97c38061)
 
 ## 🌳 프로젝트 개요
 
